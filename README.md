@@ -1,2 +1,2 @@
 # challenge1
- decdificador
+ decodificador
